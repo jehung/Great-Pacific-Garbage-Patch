@@ -1,0 +1,1882 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-178210.58738833774" y="-100167.15946853177" width="356421.17477667547" height="200334.31893706354"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="4_24309637" type="button" x="-8.9648829824911e-12" y="0" r="0" s="334.44794480311106" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.6666666666663</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="5_24309637" type="text" x="-75200.3979042129" y="-54808.47728409546" r="0" s="740.0081989181324" class="head">
+      <height>57.6</height>
+      <width>266.2576299701037</width>
+      <p>
+        <text><![CDATA[The Plastic "Plankton" - ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Their Growth and Spread]]></text>
+      </p>
+    </object>
+    <object id="8_24309637" type="button" x="-7756.393213963094" y="14988.37880091266" r="-8.354795661455201" s="37.522663900698475" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="9_24309637" type="button" x="12901.272908634566" y="-7068.646864945192" r="-8.354795661455189" s="58.15171780444265" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="10_24309637" type="button" x="63871.65562798689" y="3271.5809575284743" r="-8.354795661455201" s="45.288252872097225" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="13_24309637" type="button" x="70550.31161228642" y="25396.395093502804" r="-8.354795661455205" s="20.237789012635545" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="11_24309637" type="button" x="36175.75629390704" y="24351.972001964954" r="-8.35479566145519" s="36.74960788880687" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="12_24309637" type="button" x="114807.7885081434" y="15960.158307399388" r="-8.354795661455181" s="74.9935696366368" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>766.3692693204514</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="15_24309637" type="text" x="-8794.352368252681" y="8808.191823643207" r="-8.354795661455187" s="64.54211389216022" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Introduction]]></text>
+      </p>
+    </object>
+    <object id="22_24309637" type="text" x="11452.625924029666" y="-16928.904247913153" r="-8.354795661455187" s="100.02580849514919" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Diffusion Process]]></text>
+      </p>
+    </object>
+    <object id="1_73446099" type="image" x="24176.889062226575" y="-14349.439412863816" r="-8.354795661455183" s="20.384566308063118">
+      <source w="574" h="176">4158885068<url>4158885068.png</url></source>
+      <sourceUrl>diffusion%20process.png</sourceUrl>
+    <resource><id>4158885068</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/c/0/d175eea347f6184ef99543885abe31a82d4e8.png</url></resource></object>
+    <object id="95_73446099" type="image" x="25095.381858295023" y="-2974.943141551651" r="-8.354795661455183" s="17.2243005941203">
+      <source w="640" h="476">4161811469<url>4161811469.png</url></source>
+      <sourceUrl>heat%20(1).png</sourceUrl>
+    <resource><id>4161811469</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/e/6/deab1104e81ab33ed8efd758c026a2b1a2836.png</url></resource></object>
+    <object id="97_73446099" type="image" x="14220.90685722351" y="-1387.5449159654565" r="-8.354795661455181" s="17.2243005941203">
+      <source w="640" h="476">4161811970<url>4161811970.png</url></source>
+      <sourceUrl>diffusion1.png</sourceUrl>
+    <resource><id>4161811970</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/a/b/8a8844c0f1021a03596f9835d511b6101f582.png</url></resource></object>
+    <object id="98_73446099" type="image" x="3334.6508809643246" y="206.20233816498245" r="-8.354795661455192" s="17.2243005941203">
+      <source w="640" h="476">4161813269<url>4161813269.png</url></source>
+      <sourceUrl>diffusion2.png</sourceUrl>
+    <resource><id>4161813269</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/c/2f6795fc881f85a7c8d114e076c21077c4644.png</url></resource></object>
+    <object id="25_24309637" type="text" x="15449.497013095963" y="-10335.031991042499" r="-8.354795661455185" s="54.11310374891742" class="body">
+      <height>165.5859375</height>
+      <width>430.98128943501973</width>
+      <p>
+        <text><![CDATA[The Diffusion Process:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[d - diffusion coefficient]]></text>
+      </p>
+      <p>
+        <text><![CDATA[u－density function of x,y,t u = f(x,y,t)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[x,y - space cordinate ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[t - time cordinate]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="106_73446099" type="image" x="52963.03175805685" y="4401.5698554450655" r="-8.354795661455181" s="22.981086023473203">
+      <source w="436" h="82">4161820121<url>4161820121.png</url></source>
+      <sourceUrl>surface%20density%20.png</sourceUrl>
+    <resource><id>4161820121</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/9/4/4c10785d835f53ea502587ffea72f70ccf5b0.png</url></resource></object>
+    <object id="26_24309637" type="text" x="62658.106170920604" y="-4277.231324857742" r="-8.354795661455197" s="77.89957510968327" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Random Walk with Stochastic Drift]]></text>
+      </p>
+    </object>
+    <object id="107_73446099" type="image" x="66306.36178094154" y="4901.097312354488" r="-8.354795661455192" s="13.505441466986662">
+      <source w="640" h="476">4161821576<url>4161821576.png</url></source>
+      <sourceUrl>1Realization.png</sourceUrl>
+    <resource><id>4161821576</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/d/f/ac6996265388db905b898b7b0f381da737ef4.png</url></resource></object>
+    <object id="29_24309637" type="text" x="62895.5931022078" y="-1386.839468349431" r="-8.354795661455181" s="49.69977371958196" class="body">
+      <height>27.59765625</height>
+      <width>641.7394031559467</width>
+      <p>
+        <text><![CDATA[To understand long-term behavior of surface concentration...]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="101_73446099" type="image" x="39721.145102357004" y="20195.624896410995" r="-8.354795661455201" s="20.853583450774057">
+      <source w="320" h="126">4161815573<url>4161815573.png</url></source>
+      <sourceUrl>Wave%20Equation.png</sourceUrl>
+    <resource><id>4161815573</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/3/e/bfd73f4e8d90914ca566988ced842ad2dc5a9.png</url></resource></object>
+    <object id="102_73446099" type="image" x="42455.81278588952" y="26996.139914920852" r="-8.354795661455194" s="9.943616498292139">
+      <source w="640" h="476">4161816011<url>4161816011.png</url></source>
+      <sourceUrl>heat%20(1)%202.png</sourceUrl>
+    <resource><id>4161816011</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/6/f2b5f6cde626ae627a38c9c52b1b6da1dfe70.png</url></resource></object>
+    <object id="103_73446099" type="image" x="36181.42059941334" y="27919.92356810951" r="-8.354795661455185" s="9.94361649829215">
+      <source w="640" h="476">4161817340<url>4161817340.png</url></source>
+      <sourceUrl>heat%20(2).png</sourceUrl>
+    <resource><id>4161817340</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/6/a/eb78392bfd10c60e8664502630d80e98d0b0d.png</url></resource></object>
+    <object id="104_73446099" type="image" x="29927.9802071332" y="28857.3223602875" r="-8.354795661455194" s="9.943616498292139">
+      <source w="640" h="476">4161817796<url>4161817796.png</url></source>
+      <sourceUrl>heat%20(3).png</sourceUrl>
+    <resource><id>4161817796</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/c/c/11da456e309bb9ebeab5d71216552703b3dd1.png</url></resource></object>
+    <object id="30_24309637" type="text" x="35306.90322480111" y="18194.3571597028" r="-8.354795661455192" s="63.21239302541802" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Upwelling process - Wave equation]]></text>
+      </p>
+    </object>
+    <object id="33_24309637" type="text" x="35394.62310069945" y="22484.208841650707" r="-8.354795661455192" s="33.125222820319074" class="body">
+      <height>165.5859375</height>
+      <width>350.5784702077593</width>
+      <p>
+        <text><![CDATA[Wave Equation]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[v - velocity of wave]]></text>
+      </p>
+      <p>
+        <text><![CDATA[z - upwelling function z = f(x,y,t)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[x,y - space cordinates]]></text>
+      </p>
+      <p>
+        <text><![CDATA[t - time cordinate]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="34_24309637" type="text" x="112832.22640258117" y="3353.8084112154015" r="-8.354795661455181" s="128.9951994207264" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Monitoring Plan]]></text>
+      </p>
+    </object>
+    <object id="38_24309637" type="text" x="70061.71267067608" y="21982.175666865136" r="-8.354795661455189" s="34.81068633175382" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Thank you]]></text>
+      </p>
+    </object>
+    <object id="41_24309637" type="text" x="70545.33935286467" y="25656.94148720232" r="-8.354795661455181" s="21.994233170497004" class="head">
+      <height>28.8</height>
+      <width>606.986018466421</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Q & A]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="42_24309637" type="text" x="-108868.22214677194" y="-18541.9435286433" r="0" s="417.85465237607247" class="strong">
+      <height>28.8</height>
+      <width>310.3554089578339</width>
+      <p>
+        <text><![CDATA[Jenny Hung, Fanli Si]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="55_73446099" type="button" x="4299.61163333025" y="-9823.44667099624" r="-8.354795661455194" s="52.08539619963065" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>416.87710417578006</w>
+        <h>268.6124205249852</h>
+      </size>
+    </object>
+    <object id="25_73446099" type="button" x="-2153.5024822408586" y="-7533.359058148029" r="-8.354795661455185" s="15.333395110850912" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_73446099" type="shape" x="11.28985570866538" y="-8417.002459901361" r="-8.354795661455197" s="0.4208321610060217" class="poly3">
+      <style color="15728820" gradEndColor="15728820" gradStartAlpha="1" gradStartColor="15728820" borderColor="15728820" borderThickness="9" gradEndAlpha="1"/>
+      <style color="15728820" gradEndColor="15728820" gradStartAlpha="1" gradStartColor="15728820" borderColor="15728820" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="3_73446099" type="shape" x="-612.7443841282925" y="-6982.096030278035" r="-8.354795661455183" s="0.6818811385633925" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="4_73446099" type="shape" x="-542.2288535012658" y="-6777.2061044881275" r="-19.430607811618483" s="0.3474592967650946" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="5_73446099" type="image" x="-6280.635458779699" y="-9438.745108114888" r="20.861829837197327" s="14.17067094647261">
+      <source w="70" h="182" bt="9.4" bl="65.75">2819046241<url>2819046241.swf</url></source>
+      <sourceUrl>prezilight_bottle_plastic.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>2819046241</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/3/a/199d34da809ba59cd3093a009dbeac02825a0.swf</url></resource></object>
+    <object id="6_73446099" type="shape" x="1073.535809074258" y="-7159.231043213139" r="-8.354795661455185" s="0.5772531055459188" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="7_73446099" type="shape" x="-349.1855368567016" y="-6948.92552467108" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="8_73446099" type="shape" x="-161.10651356829845" y="-8006.658484076537" r="-8.354795661455183" s="0.5412887480718485" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="9_73446099" type="shape" x="-352.5702823267801" y="-8133.360789507185" r="-8.354795661455187" s="0.44124157869927494" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="10_73446099" type="shape" x="-952.460004477065" y="-6915.642194215116" r="-8.354795661455181" s="0.62230368885813" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="11_73446099" type="shape" x="131.8996192931571" y="-8135.165987091248" r="-8.354795661455183" s="0.560184959307348" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="12_73446099" type="shape" x="148.48487209663912" y="-8550.587081121193" r="-8.354795661455185" s="0.7698458622268207" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="13_73446099" type="shape" x="-1235.9888500222205" y="-6767.277517775859" r="-8.354795661455192" s="0.7694935438341671" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="14_73446099" type="shape" x="778.4988289307776" y="-7062.991447013372" r="-8.354795661455183" s="0.7699691580647857" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="15_73446099" type="shape" x="-252.94594065692522" y="-8273.940551365233" r="-8.354795661455189" s="0.7699753343932338" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="16_73446099" type="shape" x="253.4119816696289" y="-8348.404951707374" r="-8.354795661455181" s="0.7703622732136075" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="17_73446099" type="shape" x="-829.368094214527" y="-6639.672613553187" r="-8.354795661455181" s="0.6699843125248794" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="18_73446099" type="shape" x="449.2759195393047" y="-7014.70241163998" r="-8.354795661455185" s="0.8677347787117846" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="22_73446099" type="shape" x="-97.94540303990385" y="-8101.190943326693" r="-8.354795661455183" s="0.4206482731433308" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="23_73446099" type="shape" x="-53.69725731718917" y="-8266.60693618003" r="-8.354795661455185" s="0.43440242472902424" class="poly3">
+      <style color="6557470" gradEndColor="6557470" gradStartAlpha="1" gradStartColor="6557470" borderColor="6557470" borderThickness="9" gradEndAlpha="1"/>
+      <style color="6557470" gradEndColor="6557470" gradStartAlpha="1" gradStartColor="6557470" borderColor="6557470" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="24_73446099" type="shape" x="110.91419737856074" y="-7025.420772295285" r="48.079368615381675" s="0.6455932910136672" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="26_73446099" type="shape" x="-2957.439614371181" y="-9559.877253226092" r="6.64520471756282" s="9.025987920259897" class="line3">
+      <style color="3355443" gradEndColor="3355443" gradStartAlpha="1" gradStartColor="3355443" borderColor="3355443" gradEndAlpha="1"/>
+      <style color="3355443" gradEndColor="3355443" gradStartAlpha="1" gradStartColor="3355443" borderColor="3355443" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-287.11517242005306 67.36016267753844</sp>
+        <ep>287.11517242005306 67.36016267753844</ep>
+        <b>-134.72032535507688</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="27_73446099" type="image" x="-4257.099831782256" y="-9981.7702907274" r="-8.354795661455187" s="9.154591796553136">
+      <source w="177" h="177" bt="8.05" bl="5.25">2818956430<url>2818956430.swf</url></source>
+      <sourceUrl>prezidark_sun.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>2818956430</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/5/3/a95ad1ceb9b452bf6f9e94716eaaca3a873b5.swf</url></resource></object>
+    <object id="28_73446099" type="image" x="-2887.7446394298054" y="-10164.095246716659" r="2.911985313651055" s="3.693343028702644">
+      <source w="175" h="147" bt="22.05" bl="11.85">2818815037<url>2818815037.swf</url></source>
+      <sourceUrl>prezidark_cloud_rain.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>2818815037</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/6/5/24b27c99aca84cc0519e8ee1d5f4527afe5cf.swf</url></resource></object>
+    <object id="30_73446099" type="image" x="-1701.729826707631" y="-9717.872968908809" r="-8.354795661455185" s="7.126358749343433">
+      <source w="73" h="151" bt="25.4" bl="71.15">2818939309<url>2818939309.swf</url></source>
+      <sourceUrl>prezidark_salt.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>2818939309</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/d/1/d211499d1103e7fecdf45012e9c385c94f771.swf</url></resource></object>
+    <object id="31_73446099" type="shape" x="-4328.555620050355" y="-6434.745203559775" r="-5.728982499974464" s="9.0259879202599" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-249.24445858778608 23.07644539229477</sp>
+        <ep>249.24445858778608 23.07644539229477</ep>
+        <b>-46.15289078458954</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="32_73446099" type="shape" x="-3601.7394692293697" y="-6672.856104717411" r="-8.3547959195141" s="8.381998614030593" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-315.5923004470603 -25.174048319928826</sp>
+        <ep>315.5923004470603 -25.174048319928826</ep>
+        <b>50.34809663985765</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="33_73446099" type="shape" x="-253.15411571563274" y="-6935.401466020995" r="-8.35479580037853" s="8.381998614030612" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-321.9716558358356 31.643061181130776</sp>
+        <ep>321.9716558358356 31.643061181130776</ep>
+        <b>-63.28612236226156</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="34_73446099" type="shape" x="-114.1086805605138" y="-7185.750226420284" r="-8.354795601344174" s="8.381998614030598" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-330.68505598082106 -25.174048319928826</sp>
+        <ep>330.68505598082106 -25.174048319928826</ep>
+        <b>50.34809663985765</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="35_73446099" type="shape" x="471.1440224936367" y="-5306.2350702613385" r="81.64520429162296" s="9.02598792025986" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-135.1526907729246 0</sp>
+        <ep>135.15269077292464 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="36_73446099" type="shape" x="-904.4881592742354" y="-5204.78984051403" r="108.3207251757174" s="9.025987920259894" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-138.9381985917544 0</sp>
+        <ep>138.9381985917544 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="37_73446099" type="shape" x="-2432.8048232392175" y="-5579.522165955494" r="132.5683056532979" s="9.025987920259885" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-127.6364238423761 0</sp>
+        <ep>127.6364238423761 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="38_73446099" type="shape" x="-3295.76879905401" y="-6626.589012447314" r="171.64520414059692" s="9.025987920259906" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-160.59128039611969 0</sp>
+        <ep>160.59128039611969 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="39_73446099" type="shape" x="1905.8983384037863" y="-5532.720758149077" r="59.31762644046299" s="9.025987920259906" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-144.34977058466976 0</sp>
+        <ep>144.34977058466973 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="40_73446099" type="shape" x="2455.6558594116946" y="-7065.071630488393" r="24.724473547173012" s="9.025987920259901" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-71.85949454632554 0</sp>
+        <ep>71.85949454632555 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="41_73446099" type="shape" x="-3337.126013009775" y="-4599.91216842343" r="-8.354795661455181" s="0.6699843125248794" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="42_73446099" type="shape" x="-1702.0683012546324" y="-3986.2578146947785" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="43_73446099" type="shape" x="-3301.5861855736753" y="-5035.303260726987" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="44_73446099" type="shape" x="308.69615768124805" y="-4138.007236604128" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="45_73446099" type="shape" x="2668.31504973521" y="-6567.351885342099" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="46_73446099" type="shape" x="2729.1276433479447" y="-4453.014215021218" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="47_73446099" type="shape" x="-4871.318309755914" y="-6528.878611831988" r="-8.35479566145519" s="0.669256028477148" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="48_73446099" type="shape" x="2429.8033189423004" y="-4152.674466974557" r="-8.354795661455181" s="0.6699843125248794" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="49_73446099" type="shape" x="833.3317055463414" y="-3918.2244307458122" r="-8.354795661455181" s="0.6699843125248794" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="50_73446099" type="shape" x="-4848.753339955245" y="-6236.098128668559" r="-8.354795661455181" s="0.6699843125248794" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="51_73446099" type="shape" x="-1430.047590307818" y="-3905.3623979594404" r="-8.354795661455187" s="0.3154862048574975" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="52_73446099" type="shape" x="2894.1903974396982" y="-6618.123067393561" r="-8.354795661455187" s="0.3154862048574975" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="53_73446099" type="shape" x="-5092.116539255254" y="-6340.57393884556" r="-8.354795661455187" s="0.3154862048574975" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="54_73446099" type="button" x="26806.581651583598" y="25729.740048203454" r="-8.354795661455201" s="18.040640441614112" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="56_73446099" type="button" x="36349.53676069709" y="25541.585068617806" r="-8.354795661455201" s="44.81344851585705" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="57_73446099" type="shape" x="23925.3896644721" y="23699.242574649867" r="-8.35479566213384" s="7.004979996123952" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-270.8967458677759 -31.309657192212324</sp>
+        <ep>270.89674586777596 -31.309657192212324</ep>
+        <b>62.61931438442465</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="58_73446099" type="shape" x="24719.99934038519" y="23723.49330311787" r="-4.578752816293955" s="7.004979996123959" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-309.6614415909108 36.82091422747241</sp>
+        <ep>309.6614415909108 36.82091422747241</ep>
+        <b>-73.64182845494481</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="59_73446099" type="shape" x="26283.219547388224" y="23533.19683827739" r="-8.35479566213384" s="7.004979996123952" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-282.6436215363886 -31.309657192212324</sp>
+        <ep>282.64362153638865 -31.309657192212324</ep>
+        <b>62.61931438442465</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="60_73446099" type="shape" x="26999.27365861741" y="23458.080364322763" r="-8.35479566213384" s="7.004979996123941" class="line3">
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <style color="3288169" gradEndColor="3288169" gradStartAlpha="1" gradStartColor="3288169" borderColor="3288169" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-270.8967458677759 33.884143959966174</sp>
+        <ep>270.89674586777596 33.884143959966174</ep>
+        <b>-67.76828791993235</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="61_73446099" type="shape" x="25146.92432759499" y="23906.99261518155" r="-8.354795661455197" s="0.4500456308311372" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="62_73446099" type="shape" x="25364.792161257832" y="23723.101887567296" r="-8.354795661455201" s="0.42980371639393183" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="63_73446099" type="shape" x="24884.969127059292" y="23833.07169177825" r="-8.354795661455197" s="0.42897600656794477" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="64_73446099" type="shape" x="25096.7873784257" y="23740.753408514483" r="-8.354795661455201" s="0.42980371639393183" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="65_73446099" type="shape" x="24626.08015316703" y="23844.342146467556" r="-8.354795661455201" s="0.42980371639393183" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="66_73446099" type="shape" x="24836.738210668354" y="23657.5509341906" r="-8.354795661455201" s="0.42980371639393183" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="67_73446099" type="shape" x="25488.187065907514" y="23877.159058651076" r="-8.354795661455197" s="0.42897600656794477" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="68_73446099" type="shape" x="24728.177213293555" y="23940.14101132653" r="-8.354795661455197" s="0.42897600656794477" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="69_73446099" type="shape" x="24529.784062365874" y="23699.069300362193" r="-8.354795661455197" s="0.42897600656794477" class="poly3">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="0" y="-144.45853208449307"/>
+        <p x="165.2756340585688" y="144.45853208449307"/>
+        <p x="-165.2756340585688" y="144.45853208449307"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="70_73446099" type="shape" x="24425.366614509185" y="23824.86746373237" r="-8.354795661455197" s="0.4500456308311372" class="poly3">
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <style color="8856395" gradEndColor="8856395" gradStartAlpha="1" gradStartColor="8856395" borderColor="8856395" borderThickness="9" gradEndAlpha="1"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="71_73446099" type="shape" x="25042.581222314257" y="24647.269838886652" r="81.64520409172795" s="3.3824894025486483" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-158.9740911703012 0</sp>
+        <ep>158.9740911703012 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="72_73446099" type="shape" x="24607.01697240681" y="24639.780785950523" r="106.77647123511954" s="3.382489402548643" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-154.1919291907965 0</sp>
+        <ep>154.1919291907965 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="73_73446099" type="shape" x="25496.311500104057" y="24578.140912868315" r="62.149143990850625" s="3.3824894025486403" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-152.65341565637158 0</sp>
+        <ep>152.65341565637158 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="74_73446099" type="shape" x="24138.905544056295" y="24555.69477066546" r="122.89679995762586" s="3.382489402548646" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-147.87208525872134 0</sp>
+        <ep>147.87208525872134 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="75_73446099" type="shape" x="25997.710213953895" y="24499.558838614328" r="45.886876121578084" s="3.3824894025486505" class="line3">
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <style color="16775176" gradEndColor="16775176" gradStartAlpha="1" gradStartColor="16775176" borderColor="16775176" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-177.55052613767032 0</sp>
+        <ep>177.55052613767032 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="76_73446099" type="button" x="25812.046896243945" y="24860.174746330358" r="-8.354795661455187" s="10.264163057965913" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="77_73446099" type="shape" x="24213.296531742955" y="25285.6468562545" r="79.55724011590901" s="4.735485163568106" class="line5">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>91.7210048571745 -24.842903926875707</sp>
+        <ep>-91.7210048571745 -24.842903926875746</ep>
+        <b>-49.68580785375145</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="78_73446099" type="shape" x="24821.24133547058" y="25270.80050357627" r="79.55724011590901" s="4.735485163568106" class="line5">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>91.7210048571745 -24.842903926875707</sp>
+        <ep>-91.7210048571745 -24.842903926875746</ep>
+        <b>-49.68580785375145</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="79_73446099" type="shape" x="25455.784070369533" y="25153.91031976585" r="79.55724011590901" s="4.735485163568106" class="line5">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>91.7210048571745 -24.842903926875707</sp>
+        <ep>-91.7210048571745 -24.842903926875746</ep>
+        <b>-49.68580785375145</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="80_73446099" type="shape" x="26045.99082542457" y="25045.14149301097" r="79.55724011590901" s="4.735485163568106" class="line5">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>91.7210048571745 -24.842903926875707</sp>
+        <ep>-91.7210048571745 -24.842903926875746</ep>
+        <b>-49.68580785375145</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="81_73446099" type="shape" x="24515.047658285326" y="26218.488405726268" r="96.6452046111256" s="4.7354851635681" class="line3">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-107.92021461969392 35.39151973478944</sp>
+        <ep>107.92021461969392 35.39151973478944</ep>
+        <b>-70.78303946957888</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="82_73446099" type="shape" x="25122.890425471072" y="26203.55297988818" r="96.6452046111256" s="4.7354851635681" class="line3">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-107.92021461969392 35.39151973478944</sp>
+        <ep>107.92021461969392 35.39151973478944</ep>
+        <b>-70.78303946957888</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="83_73446099" type="shape" x="25757.847515321864" y="26086.66279607779" r="96.6452046111256" s="4.7354851635681" class="line3">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-107.92021461969392 35.39151973478944</sp>
+        <ep>107.92021461969392 35.39151973478944</ep>
+        <b>-70.78303946957888</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="84_73446099" type="shape" x="26347.88852839615" y="25977.81109833255" r="96.6452046111256" s="4.7354851635681" class="line3">
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <style color="16749190" gradEndColor="16749190" gradStartAlpha="1" gradStartColor="16749190" borderColor="16749190" gradEndAlpha="1"/>
+      <geom type="line">
+        <sp>-107.92021461969392 35.39151973478944</sp>
+        <ep>107.92021461969392 35.39151973478944</ep>
+        <b>-70.78303946957888</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="0_73446099" type="image" x="-11068.896364048833" y="16955.43345123282" r="-8.354795661455194" s="19.365332825567403">
+      <source w="1024" h="651">4158853820<url>4158853820.png</url></source>
+      <sourceUrl>GPmap_2012_NOAAMDP%20copy.png</sourceUrl>
+    <resource><id>4158853820</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/8/8/3b925a951e8813a37fb23fe07c45e827421ed.png</url></resource></object>
+    <object id="96_73446099" type="text" x="-2410.585048729256" y="19038.690806125087" r="-8.354795661455187" s="28.187553967017827" class="body body-background">
+      <height>193.18359375</height>
+      <width>625.1088086402019</width>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Impact on EcoSystem...e.g. Food Chain]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Small plastic particles...the size of plankton]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Density on ocean surface ]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Diffusion process & Upwelling Process]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="91_73446099"/>
+      </layout>
+    </object>
+    <object id="109_73446099" type="image" x="70388.35000000002" y="6294.250000000004" r="-8.35479566145519" s="20.972632677272113">
+      <source w="640" h="476">4161822407<url>4161822407.png</url></source>
+      <sourceUrl>10000Realizations.png</sourceUrl>
+    <resource><id>4161822407</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/7/fbb4e4909e45039d82950fb2f011715ca51e2.png</url></resource></object>
+    <object id="19_73446099" type="text" x="54388.42024137682" y="7420.059288159238" r="-8.354795661455181" s="30.2005775796793" class="body">
+      <height>137.98828125</height>
+      <width>454.85</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[ D_t - the surface density of micro plastic particles at time t]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[ Drift - new entrance of garbage, net effect of diffusion and upwelling]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[W_t - iid white noise]]></text>
+      </p>
+    </object>
+    <object id="20_73446099" type="text" x="69835.22239059837" y="77.88141680949104" r="-8.354795661455181" s="30.2005775796793" class="body">
+      <height>55.1953125</height>
+      <width>638.1037654581154</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Initial Value - current garbage concentration level - 10 ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Simulation: 10,000 times]]></text>
+      </p>
+    </object>
+    <object id="21_73446099" type="text" x="71097.62089948048" y="11411.884994961645" r="-8.354795661455187" s="21.571841128342346" class="body">
+      <height>27.59765625</height>
+      <width>674.1906576446862</width>
+      <p>
+        <text color="6557470" weight="bold"><![CDATA[> Result: the concentration level is most likely to go up...]]></text>
+      </p>
+    </object>
+    <object id="29_73446099" type="image" x="873.4146934042567" y="12062.519331224263" r="-8.354795661455192" s="27.219539961909923">
+      <source w="310" h="240">4159013744<url>4159013744.png</url></source>
+      <sourceUrl>300_plastic_petri_dish%20copy.png</sourceUrl>
+    <resource><id>4159013744</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/9/a1dca85da5801ebf333e811bf773a0fa978b1.png</url></resource></object>
+    <object id="99_73446099" type="text" x="15869.679025404137" y="3172.821197847503" r="-8.354795661455185" s="28.119767049306947" class="head">
+      <height>28.8</height>
+      <width>819.6034704250433</width>
+      <p>
+        <text color="6557470" weight="bold"><![CDATA[This equation shows the change of concentration level with respect to time.]]></text>
+      </p>
+    </object>
+    <object id="100_73446099" type="button" x="12903.844430912293" y="-7068.124166633855" r="-8.35479566145519" s="70.2743411387592" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="93_73446099" type="button" x="36175.3834253897" y="24350.617921539782" r="-8.35479566145519" s="44.41063100110775" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="105_73446099" type="text" x="36359.12285389079" y="30858.183433627702" r="-8.354795661455185" s="16.900623887917888" class="body">
+      <height>27.59765625</height>
+      <width>919.7751109680868</width>
+      <p>
+        <text color="6557470" weight="bold"><![CDATA[This equation shows the verticle displacement of particles with respect to time]]></text>
+      </p>
+    </object>
+    <object id="108_73446099" type="image" x="74987.17687521242" y="3735.7683954378463" r="-8.354795661455189" s="13.910010002444768">
+      <source w="640" h="476">4161821990<url>4161821990.png</url></source>
+      <sourceUrl>1Realization1.png</sourceUrl>
+    <resource><id>4161821990</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/e/b/42af81a77070a19c967695f57fbcbc5a0c724.png</url></resource></object>
+    <object id="110_73446099" type="button" x="23669.178412971232" y="-3087.038767738499" r="-8.354795661455192" s="23.74261286310582" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="111_73446099" type="button" x="14469.012783780556" y="-1389.5907140519412" r="-8.354795661455189" s="25.76484376995118" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="112_73446099" type="button" x="4572.64090233185" y="1341.6908209236406" r="-8.35479566145519" s="24.154541034329228" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="113_73446099" type="button" x="13676.160208126692" y="-5792.2892856826475" r="-8.35479566145519" s="44.997196391436056" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="114_73446099" type="button" x="42055.400719032026" y="26092.884787358624" r="-8.354795661455194" s="15.567332409484745" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="115_73446099" type="button" x="36244.69925057105" y="28213.742500185166" r="-8.354795661455192" s="14.59437413389195" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="116_73446099" type="button" x="30277.24732182865" y="29023.666908146904" r="-8.354795661455192" s="18.242967667364937" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="117_73446099" type="button" x="36311.011326477696" y="27054.692067051175" r="-8.35479566145519" s="30.404946112274914" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="118_73446099" type="text" x="52438.39036601684" y="2379.8980774320416" r="-8.354795661455185" s="44.76261228702907" class="body">
+      <height>27.59765625</height>
+      <width>-224.09765625</width>
+      <p>
+        <text><![CDATA[Randam walk model ]]></text>
+      </p>
+    </object>
+    <object id="119_73446099" type="button" x="70617.98706534304" y="4037.7705198594276" r="-8.354795661455201" s="26.251521214533035" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="120_73446099" type="button" x="63870.803886604896" y="3273.4885726546977" r="-8.354795661455201" s="54.72928835249316" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="121_73446099" type="text" x="113564.40243558084" y="8670.174533958285" r="-8.354795661455181" s="70.81779555425751" class="body body-background">
+      <height>55.1953125</height>
+      <width>745.7244570822085</width>
+      <p>
+        <text><![CDATA[Result: The concentration Level is most likely going up]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Action Required!]]></text>
+      </p>
+    </object>
+    <object id="152_73446099" type="button" x="102545.89708592217" y="18979.332773593098" r="-8.354795661455183" s="35.543706071266776" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>808.6449260427454</w>
+        <h>274.2141037933928</h>
+      </size>
+    </object>
+    <object id="125_73446099" type="text" x="93874.30981300287" y="19795.854618961668" r="-8.354795661455181" s="30.461509317378525" class="body body-background">
+      <height>220.78125</height>
+      <width>313.8427704213791</width>
+      <p>
+        <text><![CDATA[Resources:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Plasic Denstiy  ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Assumption : 10]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Diffusion Coefficient]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Ocean current velocity]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="123_73446099"/>
+      </layout>
+    </object>
+    <object id="148_73446099" type="text" x="103563.35669637764" y="17948.06382111951" r="-8.354795661455181" s="30.461509317378525" class="body body-background">
+      <height>55.1953125</height>
+      <width>-197.4140625</width>
+      <p>
+        <text><![CDATA[Diffusion Process]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Upwelling Process]]></text>
+      </p>
+    </object>
+    <object id="149_73446099" type="text" x="113077.37134380962" y="16550.790581042675" r="-8.354795661455181" s="30.461509317378525" class="body body-background">
+      <height>55.1953125</height>
+      <width>198.2703125</width>
+      <p>
+        <text><![CDATA[Estimated plastic particle denstiy ]]></text>
+      </p>
+    </object>
+    <object id="150_73446099" type="shape" x="98823.82616206225" y="18681.057461947912" r="-8.354795288514676" s="29.852279131030954" class="line3">
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-47.91272529768631 0</sp>
+        <ep>47.91272529768631 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="151_73446099" type="shape" x="108263.99697285747" y="17232.29263276256" r="-8.354795288514676" s="29.852279131030954" class="line3">
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-47.91272529768631 0</sp>
+        <ep>47.91272529768631 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="153_73446099" type="shape" x="120835.64062051395" y="14337.819641415119" r="-29.596708661037308" s="29.852279131030947" class="line3">
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-118.82447349127496 -17.3039733001768</sp>
+        <ep>118.82447349127496 -17.3039733001768</ep>
+        <b>34.6079466003536</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="154_73446099" type="shape" x="121216.12526953779" y="16850.476227721167" r="27.38861058395997" s="29.85227913103094" class="line3">
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-129.1915482973404 21.286647616577397</sp>
+        <ep>129.1915482973404 21.286647616577397</ep>
+        <b>-42.573295233154795</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="155_73446099" type="text" x="133285.224483823" y="11295.16717526773" r="-8.354795661455183" s="37.340175596981176" class="body body-background">
+      <height>82.79296875</height>
+      <width>467.04765625</width>
+      <p>
+        <text><![CDATA[Estimation << Actual Density]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> Require cleanup plan;]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> Possible increasing source of plastic]]></text>
+      </p>
+    </object>
+    <object id="156_73446099" type="text" x="134271.6980641033" y="18031.74419302209" r="-8.354795661455183" s="37.340175596981176" class="body body-background">
+      <height>82.79296875</height>
+      <width>466.81358379290066</width>
+      <p>
+        <text><![CDATA[Estimation >= Actual Density]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> Cleanup plan works]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> readjust d, set as benchmark ]]></text>
+      </p>
+    </object>
+    <object id="157_73446099" type="shape" x="119745.55626820371" y="18943.7954901758" r="-98.35479554314848" s="45.14864742579157" class="line3">
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <style color="15724527" gradEndColor="15724527" gradStartAlpha="1" gradStartColor="15724527" borderColor="15724527" gradEndAlpha="1"/>
+      <geom type="arrow">
+        <sp>-66.79669575378124 0</sp>
+        <ep>66.79669575378122 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="158_73446099" type="text" x="123600.94360383898" y="25165.444544718826" r="-8.354795661455181" s="30.461509317378525" class="body body-background">
+      <height>137.98828125</height>
+      <width>-526.32421875</width>
+      <p>
+        <text><![CDATA[Collecting sample from different ocean area]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> calculate new diffusion coeffiecient]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> plug into our model, cacluting the actual density]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[> cleanup]]></text>
+      </p>
+    </object>
+    <object id="159_73446099" type="button" x="123336.6517692078" y="19754.155778300676" r="-8.354795661455181" s="35.328986292174775" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="160_73446099" type="button" x="130164.67924474276" y="17742.14863262724" r="-8.354795661455181" s="44.16123286521847" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="85_73446099" type="button" x="36175.14211563069" y="24349.935362438246" r="-8.354795661455194" s="46.62200572002889" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="86_73446099" type="button" x="70617.77543105821" y="4037.488340813018" r="-8.354795661455197" s="27.55868459047318" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="87_73446099" type="button" x="115360.93156715692" y="15749.470751632965" r="-8.354795661455181" s="79.50947419904496" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="88_73446099" type="button" x="115360.5082985873" y="15749.047483063348" r="-8.354795661455181" s="83.4685542029768" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>683.8235294117646</w>
+        <h>600</h>
+      </size>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="28.178618368392026" fadescale="0.07807338071861399">
+      <object id="background946044541" type="image" x="13246.156445534356" y="42908.131409695954" r="0" s="125.39728512607749">
+        <source w="3500" h="579">946044541<url>946044541.png</url></source>
+        <sourceUrl>waves4c.png</sourceUrl>
+      <resource><id>946044541</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/d/b/28fca02ff3e925af92412b8c8a2b17338ac3d.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="8_24309637"/>
+    </s>
+    <s>
+      <buildin o="0_73446099"/>
+    </s>
+    <s>
+      <buildin o="29_73446099"/>
+    </s>
+    <s>
+      <buildin o="96_73446099"/>
+    </s>
+    <s>
+      <eagle o="100_73446099"/>
+    </s>
+    <s>
+      <buildin o="25_73446099"/>
+    </s>
+    <s>
+      <eagle o="25_73446099"/>
+    </s>
+    <s>
+      <eagle o="9_24309637"/>
+    </s>
+    <s>
+      <buildin o="25_24309637"/>
+    </s>
+    <s>
+      <buildin o="1_73446099"/>
+    </s>
+    <s>
+      <eagle o="110_73446099"/>
+    </s>
+    <s>
+      <buildin o="95_73446099"/>
+    </s>
+    <s>
+      <eagle o="111_73446099"/>
+    </s>
+    <s>
+      <buildin o="97_73446099"/>
+    </s>
+    <s>
+      <eagle o="112_73446099"/>
+    </s>
+    <s>
+      <buildin o="98_73446099"/>
+    </s>
+    <s>
+      <eagle o="113_73446099"/>
+    </s>
+    <s>
+      <buildin o="99_73446099"/>
+    </s>
+    <s>
+      <eagle o="93_73446099"/>
+    </s>
+    <s>
+      <buildin o="76_73446099"/>
+    </s>
+    <s>
+      <eagle o="76_73446099"/>
+    </s>
+    <s>
+      <eagle o="11_24309637"/>
+    </s>
+    <s>
+      <buildin o="33_24309637"/>
+    </s>
+    <s>
+      <buildin o="101_73446099"/>
+    </s>
+    <s>
+      <eagle o="114_73446099"/>
+    </s>
+    <s>
+      <buildin o="102_73446099"/>
+    </s>
+    <s>
+      <eagle o="115_73446099"/>
+    </s>
+    <s>
+      <buildin o="103_73446099"/>
+    </s>
+    <s>
+      <eagle o="116_73446099"/>
+    </s>
+    <s>
+      <buildin o="104_73446099"/>
+    </s>
+    <s>
+      <eagle o="117_73446099"/>
+    </s>
+    <s>
+      <buildin o="105_73446099"/>
+    </s>
+    <s>
+      <eagle o="10_24309637"/>
+    </s>
+    <s>
+      <buildin o="118_73446099"/>
+    </s>
+    <s>
+      <buildin o="106_73446099"/>
+    </s>
+    <s>
+      <buildin o="19_73446099"/>
+    </s>
+    <s>
+      <buildin o="20_73446099"/>
+    </s>
+    <s>
+      <eagle o="119_73446099"/>
+    </s>
+    <s>
+      <buildin o="107_73446099"/>
+    </s>
+    <s>
+      <buildin o="108_73446099"/>
+    </s>
+    <s>
+      <buildin o="109_73446099"/>
+    </s>
+    <s>
+      <eagle o="86_73446099"/>
+    </s>
+    <s>
+      <buildin o="21_73446099"/>
+    </s>
+    <s>
+      <eagle o="87_73446099"/>
+    </s>
+    <s>
+      <buildin o="12_24309637"/>
+    </s>
+    <s>
+      <eagle o="152_73446099"/>
+    </s>
+    <s>
+      <eagle o="159_73446099"/>
+    </s>
+    <s>
+      <buildin o="158_73446099"/>
+    </s>
+    <s>
+      <eagle o="160_73446099"/>
+    </s>
+    <s>
+      <buildin o="155_73446099"/>
+    </s>
+    <s>
+      <buildin o="156_73446099"/>
+    </s>
+    <s>
+      <eagle o="88_73446099"/>
+    </s>
+    <s>
+      <eagle o="13_24309637"/>
+    </s>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Titillium-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Titillium-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-RegularItalic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+.line1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line2
+{
+	color: #3695d0;
+	gradEndColor: #3695d0;
+	gradStartColor: #3695d0;
+}
+
+.line3
+{
+	color: #56e8f9;
+	gradEndColor: #56e8f9;
+	gradStartColor: #56e8f9;
+}
+
+.line4
+{
+	color: #ffb741;
+	gradEndColor: #ffb741;
+	gradStartColor: #ffb741;
+}
+
+.line5
+{
+	color: #e3614d;
+	gradEndColor: #e3614d;
+	gradStartColor: #e3614d;
+}
+
+.poly1
+{
+	color: #262626;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #3695d0;
+	gradStartColor: #3695d0;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #56e8f9;
+	gradStartColor: #56e8f9;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #ffb741;
+	gradStartColor: #ffb741;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #e3614d;
+	gradStartColor: #e3614d;
+}
+
+Background
+{
+	gradEnd: #262626;
+	gradStart: #262626;
+}
+
+Grid
+{
+	color: #5b5b5b;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: .7;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: .4;
+	gradEndColor: #fff;
+	gradStartAlpha: .4;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 5;
+	gradEndAlpha: 0.5;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.5;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 8;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #56e8f9;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 1;
+	background-color: #262626;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #000;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.8;
+	color: #56e8f9;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-57b6dad3</hash>
+<sync><oid>jamxnq2a7amk</oid><title>untitled-prezi</title><hash>-57b6dad3</hash></sync><config>g1hbC1r/OjasGw/pfAVAwvDovB/DdWCPFbc7M0iXY5FxqlcgGhuuef3BnzsWYIK25d1Uxpel1Ui+fWoghKeZNdYvSMykTrAQwylM7EksggBAwAG9h3nRRv9CNc/oEI4/yQfq4pjxQMQn6RPztvh8+bXMNY2Ge2w37bNlkEdI/VSYhrOSQWe/i1206SDfR/8Xj4tv79jfPu8enxcabkfUqgrRqQCvGAyhOKWhDKMkn5WmDSWDGzCD/Ctse9gKnT/36rmxmS6qRnD4p+JbGgCeFsEtZcFBMrWgIpz1aCgrpMq8wtGouxjL1JjRteqMNuHXLFlkHOYecaZEeEudUBCdfg==</config></zuiprezi>

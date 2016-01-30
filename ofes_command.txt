@@ -1,0 +1,22 @@
+ncks -O -v u -d time,684,694 -d lon,315.0,335.0 -d lat,35.0,55.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/u outfile_trmm.nc
+
+ncks -O -v v -d time,684,694 -d lon,315.0,335.0 -d lat,35.0,55.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/v outfile_trmm_add.nc
+
+
+
+ncks -O --mk_rec_dmn time -v u -d time,684,689 -d lon,315.0,335.0 -d lat,35.0,55.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/u outfile_trmm_199806.nc
+ncks -O --mk_rec_dmn time -v v -d time,684,689 -d lon,315.0,335.0 -d lat,35.0,55.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/v outfile_trmm_199806_add.nc
+ncrcat -O outfile_trmm_199806.nc outfile_trmm_199806_add.nc outdata_data.nc 
+
+ncks -O -v u -d time,694,704 -d lon,315.0,335.0 -d lat,35.0,42.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/u outfile_trmm1.nc
+ncks -O -v v -d time,694,704 -d lon,315.0,335.0 -d lat,35.0,55.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/v outfile_trmm1_199806_add.nc
+
+ncks -O -v u -d time,704,714 -d lon,315.0,335.0 -d lat,35.0,42.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/u outfile_trmm2.nc
+
+ncks -O -v u -d time,714,724 -d lon,315.0,335.0 -d lat,35.0,42.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/u outfile_trmm3.nc
+
+ncks -O -v u -d time,724,734 -d lon,315.0,335.0 -d lat,35.0,55.0 http://www.jamstec.go.jp/esc/fes/dods/OFES/OFES_NCEP_RUN/MONTHLY_3D/u outfile_trmm3.nc
+
+
+
+
